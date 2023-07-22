@@ -1,3 +1,3 @@
 # LinkedIn_jobs_autoapply
-A selenium webscraping project to automate your LinkedIn job search (easy apply jobs)
-by applying your saved resume and contact number
+A selenium webscraping project to automate your LinkedIn (easy apply jobs)
+by saving them and following the organization that posted the ad
